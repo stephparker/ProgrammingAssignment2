@@ -1,4 +1,4 @@
-## Creating a special matrix that can cache its inverse
+## Creating a special matrix that can cache its inverse in order to save time
 ##1. set value of matrix
 ##2. get value of matrix
 ##3. set value of inverse of matrix
